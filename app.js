@@ -8,6 +8,7 @@ const sequelize = require('./server/Database/sequelizeConnection');
 
 var index = require('./routes/index');
 var usersRoutes = require('./routes/v1/users/router')
+var router  = require('./routes/Usuario.router');
 const listEndpoints = require('express-list-endpoints');
 
 
@@ -44,3 +45,6 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+
+
