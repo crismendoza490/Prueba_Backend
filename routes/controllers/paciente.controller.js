@@ -1,7 +1,7 @@
 const { Paciente } =  require('../../models/index');
 const { Usuario } =  require('../../models/index');
 const Get = async (req, res) => {
-    await res.send(`Hello, i'm Goku`);
+    await res.send(`Hello`);
 }
 
 const getPacientes = async (req, res) => {
