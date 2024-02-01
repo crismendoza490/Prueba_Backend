@@ -1,4 +1,5 @@
 const auth = require('basic-auth');
+const cred = require('../server/Database/credentials.json')
 
 module.exports = basicAuth = (data) => {
     return (req, res, next) => {
