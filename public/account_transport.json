@@ -1,10 +1,10 @@
 {"service": "gmail",
     "auth":{
         "type": "OAuth2",
-        "user": "mendozacrisjosue@gmail.com",
-        "clientId": "357373256982-hbj8gbom69mk9o0sl7qju1b61dp4vl26.apps.googleusercontent.com",
-        "clientSecret": "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",
-        "refreshToken": "1//045pItjIIRiRJCgYIARAAGAQSNwF-L9IraJhteVeh8sCoOvxM5muzoxBJda4dj2i0g4ONuVc3UnbNgM6hmytKDdDqHzi1CYI6TL0"
+        "user": " ",
+        "clientId": " ",
+        "clientSecret": " ",
+        "refreshToken": " "
 
     }
 }
